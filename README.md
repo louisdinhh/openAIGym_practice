@@ -1,5 +1,9 @@
 # Learning Reinforcement Learning with Gymnasium
-
+<p align="center">
+  <img src="breakoutAtari.png" width="30%">
+  <img src="Bipedal.png" width="30%">
+  <img src="cartpole.png" width="30%">
+</p>
 ## Overview
 
 This repository contains three small projects developed while learning **Reinforcement Learning (RL)** using Python and OpenAI Gymnasium.
